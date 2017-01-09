@@ -1,1 +1,2 @@
 # -Connect-four-
+Play the game of connect four in the python shell! The way the game works is that the computer keeps track of two players using a python class(object-oriented programmimg) and both players use the board class(the board class prints a string representation of the board every every turn). One of the players can be an AI player, or both players can be an AI player or one can just pass the computer along to another person. Once a player gets four in a row or a tie, the computer indicates the result of the game and the game ends. 
